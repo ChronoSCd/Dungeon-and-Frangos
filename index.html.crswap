@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dungeos and Dragons 100% oficiAL SEM bugs e sem qualque r tipo de enganação só para você, tamo junt0&#x1F44D</title>
+</head>
+<body>
+    <main>
+        <div class="passo" id="">
+            <p>Com o Sol escaldante no céu, nós nos deparavamos com nosso grupo de heróis cansados depois de uma missão, no seu lado direito um anão com seu martelo gigante e baraba de cor castanho escuro, ao seu lado esquerdo um elfo muito do aviadad0 de cabelos loiros e seu arco pendurado sobre o ombro, a sua frente um paladino que porta uma armadura clara e duas espadas longas, lá ele kkkkk dentr da bainha, já você é um curandeiro, ou seja a categoria mais b0st@ que pode ser escolhida, chega até a ser meio deplorável sua situação, estou com pena de você, sério. Após mais um tempo de caminhada vocês chegam a ua cidade de nome que eu não tive criatividade nem vontade o bastante para pensar. O que você decide fazer?</p>
+            <button class="btn-proximo" data-proximo="1">Ir para uma adega local.</button>
+            <button class="btn-proximo" data-proximo="2">Ir direto para o destinatario, para terminar a missão.</button>
+        </div>
+    </main>
+</body>
+</html>
